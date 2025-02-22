@@ -1,0 +1,14 @@
+C:\code you projects\AtTheSeams.Data\bin\Debug\net8.0\AtTheSeams.Data.deps.json
+C:\code you projects\AtTheSeams.Data\bin\Debug\net8.0\AtTheSeams.Data.runtimeconfig.json
+C:\code you projects\AtTheSeams.Data\bin\Debug\net8.0\AtTheSeams.Data.dll
+C:\code you projects\AtTheSeams.Data\bin\Debug\net8.0\AtTheSeams.Data.pdb
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.csproj.AssemblyReference.cache
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.AssemblyInfoInputs.cache
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.AssemblyInfo.cs
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.csproj.CoreCompileInputs.cache
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.dll
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\refint\AtTheSeams.Data.dll
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.pdb
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\AtTheSeams.Data.genruntimeconfig.cache
+C:\code you projects\AtTheSeams.Data\obj\Debug\net8.0\ref\AtTheSeams.Data.dll
